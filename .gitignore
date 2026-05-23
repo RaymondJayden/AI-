@@ -1,0 +1,16 @@
+# VS Code 
+.vscode/
+
+# Model
+model/
+*.bin
+*.pth
+*.pt
+*.h5
+
+# Dataset
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
